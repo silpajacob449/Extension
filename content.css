@@ -1,0 +1,10 @@
+.block{
+	width:150px;
+	height:150px;
+	border-radius: 50%;
+	padding: 15px;
+    text-align: center;
+    display:flex !important;
+    align-items: center;
+    justify-content:center;
+}
